@@ -1,10 +1,9 @@
-import './App.css';
-import { Button } from "./Button"
+import { Button } from "./components/Button"
 
 function App() {
   return (
     <div className="App">
-      <Button color="violet">Teste 9990</Button>
+      Nothing here
     </div>
   );
 }
